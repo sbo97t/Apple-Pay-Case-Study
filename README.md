@@ -7,4 +7,4 @@
 ---
 **Merchants have to have specific equipment to use system**
 ---
-**
+**The "letting first movers flail" strategy doesn't appear to be working**
