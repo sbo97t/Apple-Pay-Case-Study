@@ -1,5 +1,5 @@
 # Apple-Pay-Case-Study
-##Biz Model
+## Biz Model
 ---
 **Use apple pay to collect transaction fees**
 ---
